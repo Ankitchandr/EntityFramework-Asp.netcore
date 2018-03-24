@@ -1,0 +1,13 @@
+F:\Entity-Framework\CurdOperation\CurdOperation\bin\Debug\CurdOperation.exe.config
+F:\Entity-Framework\CurdOperation\CurdOperation\obj\Debug\CurdOperation.csprojResolveAssemblyReference.cache
+F:\Entity-Framework\CurdOperation\CurdOperation\obj\Debug\CurdOperation.Form1.resources
+F:\Entity-Framework\CurdOperation\CurdOperation\obj\Debug\CurdOperation.Properties.Resources.resources
+F:\Entity-Framework\CurdOperation\CurdOperation\obj\Debug\CurdOperation.csproj.GenerateResource.Cache
+F:\Entity-Framework\CurdOperation\CurdOperation\bin\Debug\CurdOperation.exe
+F:\Entity-Framework\CurdOperation\CurdOperation\bin\Debug\CurdOperation.pdb
+F:\Entity-Framework\CurdOperation\CurdOperation\bin\Debug\EntityFramework.dll
+F:\Entity-Framework\CurdOperation\CurdOperation\bin\Debug\EntityFramework.SqlServer.dll
+F:\Entity-Framework\CurdOperation\CurdOperation\bin\Debug\EntityFramework.xml
+F:\Entity-Framework\CurdOperation\CurdOperation\bin\Debug\EntityFramework.SqlServer.xml
+F:\Entity-Framework\CurdOperation\CurdOperation\obj\Debug\CurdOperation.exe
+F:\Entity-Framework\CurdOperation\CurdOperation\obj\Debug\CurdOperation.pdb
